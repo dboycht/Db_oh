@@ -4,7 +4,7 @@
 进制转换程序
 
 ## 作者
-成昊天
+dboycht
 
 ## 联系方式
 - Email: dboycht@qq.com
